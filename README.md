@@ -1,2 +1,2 @@
 # firstnovel
-My first novel
+My first novel Python RenPy
